@@ -1,6 +1,6 @@
 # React Single Page Application (SPA)
 
-## 📌 Project Description
+##  Project Description
 This is a simple React Single Page Application (SPA) built using Vite.  
 It demonstrates routing between two pages:
 
@@ -9,25 +9,25 @@ It demonstrates routing between two pages:
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 🟦 State Page
+###  State Page
 - Built with React `useState`
 - Interactive counter (increase/decrease)
 - Demonstrates state management
 
-### 🟩 API Page
+###  API Page
 - Fetches weather data from OpenWeather API
 - Uses axios for HTTP requests
 - Displays dynamic API response based on user input
 
-### 🔀 Routing
+###  Routing
 - Implemented using React Router
 - Navigation between pages without reload (SPA)
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - React
 - Vite
 - React Router
@@ -36,7 +36,7 @@ It demonstrates routing between two pages:
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Install dependencies:
 ```bash
